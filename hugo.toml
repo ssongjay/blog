@@ -1,4 +1,4 @@
-baseURL = 'https://ssongjay.github.io/blog/'
+baseURL = 'https://ssongjay.github.io/few-words-blog/'
 languageCode = 'ko-kr'
 title = 'few words'
 theme = 'PaperMod'
